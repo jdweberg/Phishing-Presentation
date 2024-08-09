@@ -1,14 +1,14 @@
-<h1>DATACOM Job Simulation - Risk Assessment</h1>
+<h1>Mastercard Job Simulation - Phishing Prevention Training</h1>
 
 
 <h2>Description</h2>
-In this job simulation by DATACOM, the task was to complete a risk assessment for a client to "help them define the context, assess their risk matrix, and identify potential risk scenarios." I was tasked with defining three risk scenarios, assessing the current and post-improvement risk levels for each, and creating a risk assessment report for the client.
+In this job simulation by Mastercard, the task was to "create a short presentation to help teams improve security awareness" after having determined the teams most at risk through data analysis. In this task, I was encouraged to be creative and not boring.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Microsoft Excel</b> 
+- <b>Microsoft PowerPoint</b> 
 
 <h2>Environments Used </h2>
 
@@ -19,7 +19,7 @@ In this job simulation by DATACOM, the task was to complete a risk assessment fo
 <p align="center">
 
 
-<img src="https://i.imgur.com/9JaOMth.png" height="80%" width="80%" alt="AssessmentPreview"/>
+<img src="https://i.imgur.com/VHclYy0.png" height="80%" width="80%" alt="AssessmentPreview"/>
 
 </p>
 
