@@ -19,7 +19,7 @@ In this job simulation by Mastercard, the task was to "create a short presentati
 <p align="center">
 
 
-<img src="https://i.imgur.com/VHclYy0.png" height="80%" width="80%" alt="AssessmentPreview"/>
+<img src="https://i.imgur.com/VHclYy0.png" height="80%" width="80%" alt="PhishingPreview"/>
 
 </p>
 
